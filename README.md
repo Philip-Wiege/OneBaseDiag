@@ -1,1 +1,1 @@
-# ViessmannOneBaseDiagnostics
+# ViessmannOneBaseDiag
